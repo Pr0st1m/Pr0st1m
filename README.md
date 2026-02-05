@@ -1,6 +1,6 @@
-<p align="center">
-  <h2>__Hi, I'm Pr0st1m, and I write all kinds of scripts.__</h2>
-</p>
+<div align="center">
+  <h2> [Hi, I'm Pr0st1m, and I write all kinds of scripts]. </h2>
+</div>
 <p align="center">
 
 [![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_readme.png)](https://github.com/Pr0st1m)
