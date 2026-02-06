@@ -32,7 +32,6 @@ aw
 d
 adwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 
-
 <div style="background-color: #1a1a1a; padding: 15px; border-left: 4px solid #c46eec; border-radius: 0 8px 8px 0; margin: 10px 0;">
   <div style="display: flex; align-items: center; margin-bottom: 8px;">
     <svg style="flex-shrink: 0; fill: #c46eec; margin-right: 8px;" width="18" height="18" viewBox="0 0 16 16" aria-hidden="true">
