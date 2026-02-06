@@ -3,7 +3,7 @@
 </div>
 <p align="center">
 
-[![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_readme_a.png)](https://github.com/Pr0st1m)
+[![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_banner_readme.png)](https://github.com/Pr0st1m)
 </p>
 
 <div align="center">
