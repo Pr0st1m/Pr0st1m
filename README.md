@@ -1,7 +1,4 @@
-<div align="center">
-  <h1> [Hi, I'm Pr0st1m, and I write all kinds of scripts]. </h1>
-</div>
-<p align="center">
+<p align="text-align: center;">
 
 [![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_banner_readme.png)](https://github.com/Pr0st1m)
 
@@ -15,25 +12,32 @@
 
 </div>
 
-<h2>Example usage of internal links with AUTOTITLE</h2>
+<p style="margin-left: 10%; font-size: 25px;">
+  <strong>[ Documentation of the general information ]</strong>
+</p>
 
-{% data variables.product.prodname_dotcom %}
+<p style="margin-left: 10%; font-size: 18px;">
+  ● qddwd2qdwdwdddddddddddddwdwdddddddddddddddd<br>
+  ● 3rqrrwdwdwddwd<br>
+  ● 3r2rrwdwdwd<br>
+</p>
 
-<h2>
-dwdawdawdawdawd
-dwawdawdawdwadd
-dwawdawdawdawdd
-</h2>
+<p style="margin-left: 10%; font-size: 15px; max-width: 1000px">
+  Этот текст начинается с отступом и имеет ограниченную ширину, а каждая строка внутри этого блока выравнивается по центру.  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  [max line]
+</p>
+<div style="margin-left: 10%; font-size: 18px;  max-width: 1000px">
 
+  > [!WARNING] 
+  > Important
+  >
+  > But occasionally may require more than one paragraph
 
-> [!WARNING] 
-> Important
->
-> But occasionally may require more than one paragraph
+</div>
 
-<p align="center">
+<p align="center" >
 
-[![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_banner_readme_end.png)](https://github.com/Pr0st1m)
+  [![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_banner_readme_end.png)](https://github.com/Pr0st1m)
 
 </p>
+
 ---
