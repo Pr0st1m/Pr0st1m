@@ -40,6 +40,6 @@
   
 <p align="center" >
 
-  [![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_banner_readme_end.png)](https://github.com/Pr0st1m)
+  [![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_banner_readme2.png)](https://github.com/Pr0st1m)
 
 </p>
