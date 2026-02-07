@@ -31,15 +31,15 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,cs,cpp,js"/>
   </a><br>
-  
-  __( I mainly used Lua in gmod, and I programmed other languages for myself and my skills ).__
+
+  *__( I mainly used Lua in gmod, and I programmed other languages for myself and my skills ).__*
 
   + **software for work**<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,blender,vscode,visualstudio,ps"/>
   </a><br>
 
-  __( I use VS Code for general purposes, as it is convenient for writing. I often used Blender for creating models ).__
+  *__( I use VS Code for general purposes, as it is convenient for writing. I often used Blender for creating models ).__*
   
 <p align="center" >
 
