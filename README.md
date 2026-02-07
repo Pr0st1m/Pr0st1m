@@ -1,9 +1,10 @@
 <div align="center">
-  <h2> [Hi, I'm Pr0st1m, and I write all kinds of scripts]. </h2>
+  <h1> [Hi, I'm Pr0st1m, and I write all kinds of scripts]. </h1>
 </div>
 <p align="center">
 
 [![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_banner_readme.png)](https://github.com/Pr0st1m)
+
 </p>
 
 <div align="center">
@@ -14,19 +15,25 @@
 
 </div>
 
-### [__Example usage of internal links with AUTOTITLE__]()
-+ `dwdawdawdawdawd`[^1]
-+ `dwawdawdawdwadd`[^2]
-+ `dwawdawdawdawdd`[^3]
+<h2>Example usage of internal links with AUTOTITLE</h2>
 
-[^1]: dawddd
-[^2]: dawddd
-[^3]: dawddd
+{% data variables.product.prodname_dotcom %}
+
+<h2>
+dwdawdawdawdawd
+dwawdawdawdwadd
+dwawdawdawdawdd
+</h2>
+
 
 > [!WARNING] 
 > Important
 >
 > But occasionally may require more than one paragraph
->
 
+<p align="center">
+
+[![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_banner_readme_end.png)](https://github.com/Pr0st1m)
+
+</p>
 ---
