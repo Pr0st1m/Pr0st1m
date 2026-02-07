@@ -25,7 +25,19 @@
 
   + **[ Why is this important? ]**<br>
     Mathematics is the fundamental basis for programming. Its branches, such as __algorithm theory__ and __number theory__, shape logical thinking and provide tools for solving complex problems. Understanding these principles directly contributes to the design of efficient and reliable __databases__ and the overall architecture of systems. Thus, mathematics is not just useful; it forms the very structure of a developer's mindset.
-    
+
+## **[ Information about the general skill ]**
+  + **Programming languages**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=lua,cs,cpp,js"/>
+  </a><br>
+  *( I mainly used Lua in gmod, and I programmed other languages for myself and my skills ).*
+  + **software for work**<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,blender,vscode,visualstudio,ps"/>
+  </a><br>
+  *I use VS Code for general purposes, as it is convenient for writing. I often used Blender for creating models.*
+  
 <p align="center" >
 
   [![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_banner_readme_end.png)](https://github.com/Pr0st1m)
