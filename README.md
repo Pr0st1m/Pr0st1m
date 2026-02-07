@@ -1,3 +1,6 @@
+<div align="center">
+  <h1> <strong> [ Hi, I'm Pr0st1m, and I write all kinds of scripts ]</strong> </h1>
+</div>
 <p align="text-align: center;">
 
 [![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_banner_readme.png)](https://github.com/Pr0st1m)
@@ -12,32 +15,19 @@
 
 </div>
 
-<p style="margin-left: 10%; font-size: 25px;">
-  <strong>[ Documentation of the general information ]</strong>
-</p>
+## **[ Documentation of the general information ]**
+  
+  + **[ Development environment in VS Code and Visual Studio ]**<br>
+    The files are located in `C:\Users\Pr0st1m\AppData\Local\Programs\...` and some project files are located on another disk `D:\Projects\Code\GitHub\...` Well, that's it for the basics.<br>
 
-<p style="margin-left: 10%; font-size: 18px;">
-  ● qddwd2qdwdwdddddddddddddwdwdddddddddddddddd<br>
-  ● 3rqrrwdwdwddwd<br>
-  ● 3r2rrwdwdwd<br>
-</p>
+  + **[ Operating system: Microsoft Windows 11 Pro (64-bit) ]**<br>
+    I mostly use it for work and gaming. I haven't considered switching to Linux yet.
 
-<p style="margin-left: 10%; font-size: 15px; max-width: 1000px">
-  Этот текст начинается с отступом и имеет ограниченную ширину, а каждая строка внутри этого блока выравнивается по центру.  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  [max line]
-</p>
-<div style="margin-left: 10%; font-size: 18px;  max-width: 1000px">
-
-  > [!WARNING] 
-  > Important
-  >
-  > But occasionally may require more than one paragraph
-
-</div>
-
+  + **[ Why is this important? ]**<br>
+    Mathematics is the fundamental basis for programming. Its branches, such as __algorithm theory__ and __number theory__, shape logical thinking and provide tools for solving complex problems. Understanding these principles directly contributes to the design of efficient and reliable __databases__ and the overall architecture of systems. Thus, mathematics is not just useful; it forms the very structure of a developer's mindset.
+    
 <p align="center" >
 
   [![Header](https://github.com/Pr0st1m/Pr0st1m/blob/main/assets/pr0st1m_banner_readme_end.png)](https://github.com/Pr0st1m)
 
 </p>
-
----
