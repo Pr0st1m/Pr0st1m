@@ -36,7 +36,7 @@
 
   + **software for work**<br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,blender,vscode,visualstudio,ps"/>
+    <img src="https://skillicons.dev/icons?i=blender,vscode,visualstudio,ps"/>
   </a><br>
 
   *__( I use VS Code for general purposes, as it is convenient for writing. I often used Blender for creating models ).__*
